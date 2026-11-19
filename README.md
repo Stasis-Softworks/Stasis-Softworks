@@ -2,7 +2,11 @@
 
 ### Engineering Ideas. Building Possibilities.
 
-\<p align="center">   \<strong>INDEPENDENT SOFTWARE DEVELOPMENT\</strong>   \<br/>   Building software with purpose, precision, and creativity. \</p>
+<p align="center">
+  <strong>INDEPENDENT SOFTWARE DEVELOPMENT</strong>
+  <br>
+  Building software with purpose, precision, and creativity.
+</p>
 
 ---
 
@@ -59,4 +63,10 @@ Contributions, ideas, and constructive feedback are always welcome.
 
 ---
 
-\<p align="center">   \<strong>STASIS SOFTWORKS\</strong>   \<br/>   \<sub>Built with purpose. Engineered with precision.\</sub>   \<br/>\<br/>   \<sub>© 2026 Stasis Softworks. All rights reserved.\</sub> \</p>
+<p align="center">
+  <strong>STASIS SOFTWORKS</strong>
+  <br>
+  <sub>Built with purpose. Engineered with precision.</sub>
+  <br><br>
+  <sub>© 2026 Stasis Softworks. All rights reserved.</sub>
+</p>
